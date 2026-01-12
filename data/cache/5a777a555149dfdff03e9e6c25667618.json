@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      300,
+      502,
+      428,
+      938
+    ],
+    "label": "Future Undiscounted Fixed Lease Payments and Contract Expiration Table 2023-2028"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      642,
+      60,
+      848,
+      492
+    ],
+    "label": "Concessions Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      621,
+      509,
+      781,
+      938
+    ],
+    "label": "Rent and Leases Table 2022-2023"
+  }
+]

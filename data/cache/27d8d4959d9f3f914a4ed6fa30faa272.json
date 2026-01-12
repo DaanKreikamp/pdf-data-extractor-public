@@ -1,0 +1,82 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      265,
+      638,
+      309,
+      725
+    ],
+    "label": "ICA destinations 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      322,
+      638,
+      386,
+      764
+    ],
+    "label": "CO2e emissions change compared to 2019 percentage 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      400,
+      638,
+      444,
+      731
+    ],
+    "label": "Reputation score 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      457,
+      638,
+      501,
+      755
+    ],
+    "label": "On-time Performance percentage 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      515,
+      638,
+      558,
+      755
+    ],
+    "label": "Net Promoter Score 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      571,
+      638,
+      615,
+      747
+    ],
+    "label": "Net Safety Score 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      629,
+      638,
+      672,
+      755
+    ],
+    "label": "Employee Promoter Score 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      686,
+      638,
+      729,
+      755
+    ],
+    "label": "Return on Equity percentage 2022"
+  }
+]

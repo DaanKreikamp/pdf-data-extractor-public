@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      180,
+      59,
+      512,
+      504
+    ],
+    "label": "Income Tax Recognised in Equity Table 2023 and 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      554,
+      59,
+      662,
+      500
+    ],
+    "label": "Current Income Tax Positions - Income Tax Receivable Table 2023 and 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      699,
+      59,
+      846,
+      500
+    ],
+    "label": "Current Income Tax Positions - Income Tax Liability Table 2023 and 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      846,
+      59,
+      878,
+      500
+    ],
+    "label": "Current Income Tax Positions - Total Income Tax Table 2023 and 2022"
+  }
+]

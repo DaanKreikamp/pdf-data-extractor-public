@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      140,
+      60,
+      415,
+      350
+    ],
+    "label": "Air transport movements at Schiphol in 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      433,
+      60,
+      729,
+      349
+    ],
+    "label": "Top-10 European passenger volumes and market share in 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      582,
+      650,
+      876,
+      946
+    ],
+    "label": "Cargo volumes by continent in 2023"
+  }
+]

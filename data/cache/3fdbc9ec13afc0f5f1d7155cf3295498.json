@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      521,
+      92,
+      710,
+      204
+    ],
+    "label": "Total Workforce Distribution 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      570,
+      227,
+      673,
+      350
+    ],
+    "label": "Workforce by Location 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      760,
+      62,
+      935,
+      388
+    ],
+    "label": "Employee Movement by Location 2023"
+  }
+]

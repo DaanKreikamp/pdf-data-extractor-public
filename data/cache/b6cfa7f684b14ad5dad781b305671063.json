@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      120,
+      651,
+      465,
+      928
+    ],
+    "label": "Lden Noise Contours Map 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      708,
+      680,
+      749,
+      937
+    ],
+    "label": "Table: Number of Complainants by Group 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      798,
+      680,
+      881,
+      937
+    ],
+    "label": "Table: Number of Reports by Type and Complainant Group 2022-2023"
+  }
+]

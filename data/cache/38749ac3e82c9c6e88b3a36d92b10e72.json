@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      121,
+      508,
+      360,
+      934
+    ],
+    "label": "Commitments relating to by term 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      661,
+      62,
+      901,
+      495
+    ],
+    "label": "Commitments relating to by term 2022"
+  }
+]

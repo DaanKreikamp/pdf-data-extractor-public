@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      120,
+      48,
+      477,
+      497
+    ],
+    "label": "Funds From Operations Table 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      120,
+      508,
+      252,
+      940
+    ],
+    "label": "FFO/Total Debt Ratio and Leverage Table 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      616,
+      48,
+      770,
+      497
+    ],
+    "label": "Debt and Liabilities Table 2020-2021"
+  }
+]

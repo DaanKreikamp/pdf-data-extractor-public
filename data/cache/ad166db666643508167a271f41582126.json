@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      231,
+      659,
+      417,
+      792
+    ],
+    "label": "Sustainability CO₂e emissions reduction compared to 2019 (2022 Data)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      231,
+      804,
+      417,
+      938
+    ],
+    "label": "Local residents Reputation Score 2022"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      186,
+      59,
+      235,
+      497
+    ],
+    "label": "Carrying amount of Investment Property as at 1 January 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      248,
+      59,
+      420,
+      497
+    ],
+    "label": "Movements in Investment Property 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      440,
+      59,
+      487,
+      497
+    ],
+    "label": "Carrying amount of Investment Property as at 31 December 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      500,
+      59,
+      672,
+      497
+    ],
+    "label": "Movements in Investment Property 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      691,
+      59,
+      738,
+      497
+    ],
+    "label": "Carrying amount of Investment Property as at 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      752,
+      59,
+      820,
+      497
+    ],
+    "label": "Investment Property Measurement Models (Cost vs Fair Value) 2021"
+  }
+]

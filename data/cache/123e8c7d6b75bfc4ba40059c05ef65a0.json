@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      667,
+      66,
+      838,
+      344
+    ],
+    "label": "Total result of regional airports (EUR million) 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      667,
+      359,
+      863,
+      638
+    ],
+    "label": "Total result of international airports (EUR million) 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      667,
+      653,
+      816,
+      932
+    ],
+    "label": "Total result of other activities (EUR million) 2022-2021"
+  }
+]

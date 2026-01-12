@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      359,
+      396,
+      935
+    ],
+    "label": "Schiphol Commercial Operating Results 2022-2023 (EUR million)"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      405,
+      359,
+      618,
+      935
+    ],
+    "label": "Schiphol Commercial Segmented Operating Results 2022-2023 (EUR 1.000)"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      660,
+      61,
+      780,
+      348
+    ],
+    "label": "Spend per departing passenger at Schiphol 2022-2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      660,
+      350,
+      936,
+      626
+    ],
+    "label": "Public parking revenue chart 2022-2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      660,
+      640,
+      936,
+      926
+    ],
+    "label": "Real estate average physical occupancy rate chart 2022-2023"
+  }
+]

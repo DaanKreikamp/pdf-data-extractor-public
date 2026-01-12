@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      214,
+      41,
+      300,
+      501
+    ],
+    "label": "Carrying amount as at 31 December 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      340,
+      41,
+      606,
+      501
+    ],
+    "label": "Movements in 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      644,
+      41,
+      805,
+      501
+    ],
+    "label": "Analysis as at 31 December 2021"
+  }
+]

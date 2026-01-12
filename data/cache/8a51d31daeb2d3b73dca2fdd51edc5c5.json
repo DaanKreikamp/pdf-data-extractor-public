@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      191,
+      65,
+      529,
+      939
+    ],
+    "label": "Financial Ratios Table 2014-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      191,
+      65,
+      684,
+      939
+    ],
+    "label": "Figures Per Share Table 2014-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      191,
+      65,
+      824,
+      939
+    ],
+    "label": "Personnel Data Table 2014-2023"
+  }
+]

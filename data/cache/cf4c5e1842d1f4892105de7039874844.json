@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      286,
+      43,
+      498,
+      500
+    ],
+    "label": "Provision for Bad Debt and Ageing Analysis at 31 December 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      110,
+      501,
+      334,
+      941
+    ],
+    "label": "Financial Liabilities Maturity Analysis 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      358,
+      501,
+      579,
+      941
+    ],
+    "label": "Financial Liabilities Maturity Analysis 2021"
+  }
+]

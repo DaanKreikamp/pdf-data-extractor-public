@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      169,
+      358,
+      363,
+      939
+    ],
+    "label": "Aviation Financial Performance Table 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      397,
+      355,
+      582,
+      937
+    ],
+    "label": "Aviation and Security Segment Financial Performance Table 2020-2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      660,
+      342,
+      868,
+      615
+    ],
+    "label": "Schiphol's Market Share in Passenger Volume Donut Charts 2020-2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      662,
+      638,
+      916,
+      929
+    ],
+    "label": "Punctuality of Air Transport Movements Bar Chart 2020-2021"
+  }
+]

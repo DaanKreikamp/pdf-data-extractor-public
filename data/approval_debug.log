@@ -1,0 +1,9 @@
+Tue Dec  9 15:35:17 2025: Saving CSVs to: C:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\test_output\csvs
+Tue Dec  9 15:35:17 2025: Saving MDs to: C:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\test_output\mds
+Tue Dec  9 15:35:17 2025: Found 1 approved items.
+Tue Dec  9 15:35:17 2025: Processing item 46b9bad7-d248-4c17-889a-0cf58eef9dc3
+Tue Dec  9 15:35:17 2025: CSV Name: NS_Jaarverantwoording_Aantal_drukke_treinen_spits_HRN_2023.csv, MD Name: NS_Jaarverantwoording_Aantal_drukke_treinen_spits_HRN.md
+Tue Dec  9 15:35:17 2025: Content keys: dict_keys(['id', 'csv', 'markdown', 'suggested_csv_name', 'suggested_md_name', 'original_filename', 'image_ext', 'source_images'])
+Tue Dec  9 15:35:17 2025: Wrote CSV to C:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\test_output\csvs\NS_Jaarverantwoording_Aantal_drukke_treinen_spits_HRN_2023.csv
+Tue Dec  9 15:35:17 2025: Wrote MD to C:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\test_output\mds\NS_Jaarverantwoording_Aantal_drukke_treinen_spits_HRN.md
+Tue Dec  9 15:35:17 2025: Copied image to C:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\test_output\mds\NS_Jaarverantwoording_Aantal_drukke_treinen_spits_HRN_2023_input_image.png

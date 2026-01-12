@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      136,
+      350,
+      508,
+      929
+    ],
+    "label": "Passenger Journey Diagram"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      539,
+      350,
+      936,
+      929
+    ],
+    "label": "Airline Journey Diagram"
+  }
+]

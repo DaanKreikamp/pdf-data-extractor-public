@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      197,
+      58,
+      375,
+      934
+    ],
+    "label": "Summary of Borrowings Table 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      427,
+      58,
+      856,
+      933
+    ],
+    "label": "Detailed EMTN Programme Borrowings Table 2020-2021"
+  }
+]

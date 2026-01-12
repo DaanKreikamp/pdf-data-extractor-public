@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      224,
+      602,
+      372,
+      900
+    ],
+    "label": "Key Figures: Passenger Numbers"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      395,
+      602,
+      460,
+      840
+    ],
+    "label": "Key Figures: Air Transport Movements"
+  }
+]

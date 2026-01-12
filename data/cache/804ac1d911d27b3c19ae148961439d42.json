@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      209,
+      61,
+      718,
+      936
+    ],
+    "label": "Consolidated statement of changes in equity for the year ended 31 December 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      757,
+      61,
+      853,
+      492
+    ],
+    "label": "Dividend Information 2020-2022"
+  }
+]

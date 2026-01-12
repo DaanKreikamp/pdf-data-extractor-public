@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      594,
+      64,
+      638,
+      493
+    ],
+    "label": "Intangible Assets Useful Life Table 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      701,
+      64,
+      915,
+      493
+    ],
+    "label": "Assets Used for Operating Activities Useful Life Table 2022"
+  }
+]

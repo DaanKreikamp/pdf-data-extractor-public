@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      340,
+      59,
+      564,
+      336
+    ],
+    "label": "DE&I Status Chart 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      118,
+      642,
+      360,
+      937
+    ],
+    "label": "Gender Split Chart 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      617,
+      359,
+      874,
+      894
+    ],
+    "label": "Age Categories by Headcount Chart 2023"
+  }
+]

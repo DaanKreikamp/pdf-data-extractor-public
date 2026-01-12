@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      238,
+      115,
+      303,
+      495
+    ],
+    "label": "Significant Assumptions for Buildings Valuation 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      765,
+      115,
+      808,
+      495
+    ],
+    "label": "Significant Assumptions for Land Valuation 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      319,
+      509,
+      346,
+      929
+    ],
+    "label": "Reconciliation of Effective Tax Rate - Result before tax 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      365,
+      509,
+      663,
+      929
+    ],
+    "label": "Income Tax Calculated at Domestic Rate and Effective Expense 2020-2021"
+  }
+]

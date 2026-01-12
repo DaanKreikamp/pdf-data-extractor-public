@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      50,
+      515,
+      500
+    ],
+    "label": "Consolidated Statement of Financial Position, 1 January 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      495,
+      548,
+      945
+    ],
+    "label": "Consolidated Statement of Financial Position, 31 December 2020"
+  }
+]

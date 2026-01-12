@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      179,
+      44,
+      498,
+      938
+    ],
+    "label": "Consolidated Profit and Loss Account 2010-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      529,
+      44,
+      762,
+      938
+    ],
+    "label": "Consolidated Balance Sheet 2010-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      789,
+      44,
+      814,
+      938
+    ],
+    "label": "Operating Cash Flow 2010-2022"
+  }
+]

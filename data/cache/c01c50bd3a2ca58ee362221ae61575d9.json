@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      177,
+      59,
+      429,
+      345
+    ],
+    "label": "Direct Connectivity Ranking of Top-10 European Airports 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      462,
+      59,
+      765,
+      345
+    ],
+    "label": "Hub Connectivity Ranking of Top-10 Airports Worldwide 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      569,
+      651,
+      932,
+      932
+    ],
+    "label": "Passenger Volumes by Continent 2023 Map"
+  }
+]

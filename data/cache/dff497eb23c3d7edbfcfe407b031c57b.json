@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      154,
+      59,
+      605,
+      494
+    ],
+    "label": "Financial Instruments Classified by Measurement Policy 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      154,
+      509,
+      605,
+      935
+    ],
+    "label": "Financial Instruments Classified by Measurement Policy 2022"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      353,
+      404,
+      930
+    ],
+    "label": "Alliances & Participations Performance Summary 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      448,
+      353,
+      616,
+      930
+    ],
+    "label": "Alliances & Participations Performance by Segment 2020-2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      664,
+      345,
+      966,
+      935
+    ],
+    "label": "Number of Passengers by Airport 2020-2021"
+  }
+]

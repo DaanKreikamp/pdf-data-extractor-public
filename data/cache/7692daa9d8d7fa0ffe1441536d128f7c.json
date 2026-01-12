@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      189,
+      58,
+      292,
+      495
+    ],
+    "label": "Remuneration for Management Board members 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      417,
+      58,
+      521,
+      497
+    ],
+    "label": "Remuneration for Management Board members 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      440,
+      506,
+      631,
+      946
+    ],
+    "label": "Remuneration Key Management personnel 2023 and 2022"
+  }
+]

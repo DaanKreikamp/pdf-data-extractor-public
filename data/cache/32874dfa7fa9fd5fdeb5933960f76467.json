@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      119,
+      508,
+      329,
+      948
+    ],
+    "label": "Consolidated Liabilities and Total Debt 2023-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      422,
+      59,
+      725,
+      495
+    ],
+    "label": "Funds From Operations 2023-2022"
+  }
+]

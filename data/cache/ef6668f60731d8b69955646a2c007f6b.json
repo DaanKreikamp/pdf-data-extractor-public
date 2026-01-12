@@ -1,0 +1,50 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      [
+        157,
+        506,
+        260,
+        938
+      ],
+      "Fixed Lease Payments Forecast (in thousands of euros) 2022-2026"
+    ]
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      [
+        427,
+        508,
+        571,
+        938
+      ],
+      "Rent and Leases Breakdown 2020-2021"
+    ]
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      [
+        608,
+        56,
+        775,
+        486
+      ],
+      "Concessions Revenue Breakdown 2020-2021"
+    ]
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      [
+        784,
+        506,
+        917,
+        938
+      ],
+      "Fixed Lease Payments from Rent and Concessions Forecast (in millions of euros) 2022-2026"
+    ]
+  }
+]

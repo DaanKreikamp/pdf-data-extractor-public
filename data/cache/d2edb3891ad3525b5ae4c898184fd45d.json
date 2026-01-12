@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      209,
+      61,
+      541,
+      929
+    ],
+    "label": "Profit and loss account 2014-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      628,
+      61,
+      809,
+      929
+    ],
+    "label": "Balance sheet 2014-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      884,
+      61,
+      928,
+      929
+    ],
+    "label": "Operating cash flow 2014-2023"
+  }
+]

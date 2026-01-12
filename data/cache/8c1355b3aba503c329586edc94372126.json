@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      119,
+      57,
+      513,
+      930
+    ],
+    "label": "Projects Completed Capital Expenditure Table 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      660,
+      68,
+      876,
+      502
+    ],
+    "label": "Movement in Right-of-Use Assets Table 2020-2021"
+  }
+]

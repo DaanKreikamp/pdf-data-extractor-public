@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      359,
+      412,
+      929
+    ],
+    "label": "Alliances & Participations Financial Performance 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      447,
+      359,
+      621,
+      929
+    ],
+    "label": "Alliances & Participations Detailed Financial Performance by Segment 2021-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      669,
+      354,
+      977,
+      929
+    ],
+    "label": "Number of Passengers by Airport Bar Chart 2021-2022"
+  }
+]

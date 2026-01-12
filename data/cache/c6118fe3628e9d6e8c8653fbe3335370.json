@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      166,
+      354,
+      317,
+      929
+    ],
+    "label": "OPEX (concerns maintenance and repair) Table 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      403,
+      354,
+      555,
+      929
+    ],
+    "label": "Turnover Table 2021"
+  }
+]

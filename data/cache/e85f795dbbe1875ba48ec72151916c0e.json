@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      145,
+      59,
+      220,
+      496
+    ],
+    "label": "Significant assumptions for buildings table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      197,
+      509,
+      248,
+      931
+    ],
+    "label": "Reconciliation of effective tax rate table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      267,
+      509,
+      490,
+      931
+    ],
+    "label": "Income tax calculated at the domestic tax rate and income tax expense in income statement (effective) table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      518,
+      59,
+      573,
+      496
+    ],
+    "label": "Significant assumptions used in the valuation model for land table 2022-2023"
+  }
+]

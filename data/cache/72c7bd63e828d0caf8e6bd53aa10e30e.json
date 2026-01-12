@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      151,
+      506,
+      290,
+      930
+    ],
+    "label": "Employee Benefits Expense Summary 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      321,
+      506,
+      465,
+      930
+    ],
+    "label": "Short-term Employee Benefits Details 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      489,
+      506,
+      560,
+      930
+    ],
+    "label": "Post-retirement Benefits Details 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      590,
+      506,
+      660,
+      930
+    ],
+    "label": "Other Long-term Employee Benefits Details 2021-2020"
+  }
+]

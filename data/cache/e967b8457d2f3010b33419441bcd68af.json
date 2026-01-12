@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      142,
+      60,
+      401,
+      344
+    ],
+    "label": "Passenger volumes at Schiphol in 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      530,
+      353,
+      762,
+      636
+    ],
+    "label": "Cargo volumes by continent in 2021"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      215,
+      60,
+      329,
+      489
+    ],
+    "label": "Eligible Green Project Portfolio as of 31 December 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      190,
+      502,
+      350,
+      936
+    ],
+    "label": "Green Funding Table 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      486,
+      60,
+      622,
+      489
+    ],
+    "label": "Green Loan and Funding Allocation Status as of 31 December 2023"
+  }
+]

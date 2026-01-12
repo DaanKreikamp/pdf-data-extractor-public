@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      186,
+      50,
+      359,
+      411
+    ],
+    "label": "Income tax recognised in equity 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      378,
+      50,
+      521,
+      411
+    ],
+    "label": "Income tax recognised in equity 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      541,
+      50,
+      680,
+      411
+    ],
+    "label": "Income tax receivable 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      709,
+      50,
+      843,
+      411
+    ],
+    "label": "Income tax liability 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      858,
+      50,
+      893,
+      411
+    ],
+    "label": "Total income tax 2021-2022"
+  }
+]

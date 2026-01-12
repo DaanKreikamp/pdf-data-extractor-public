@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      706,
+      355,
+      893,
+      477
+    ],
+    "label": "Sustainability CO2 emissions -14% indicator"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      706,
+      521,
+      893,
+      642
+    ],
+    "label": "Local residents Reputation Score 7.5 indicator"
+  }
+]

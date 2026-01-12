@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      122,
+      59,
+      450,
+      933
+    ],
+    "label": "Reconciliation of effective tax rate per tax jurisdiction 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      498,
+      59,
+      825,
+      933
+    ],
+    "label": "Reconciliation of effective tax rate per tax jurisdiction 2020"
+  }
+]

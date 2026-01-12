@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      236,
+      107,
+      312,
+      485
+    ],
+    "label": "Audit Coverage Breakdown for Total Assets 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      377,
+      107,
+      454,
+      485
+    ],
+    "label": "Audit Coverage Breakdown for Revenue 2021"
+  }
+]

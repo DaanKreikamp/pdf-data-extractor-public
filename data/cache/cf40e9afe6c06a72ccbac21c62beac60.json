@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      220,
+      654,
+      483,
+      929
+    ],
+    "label": "Gender Split Bar Chart 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      523,
+      651,
+      755,
+      933
+    ],
+    "label": "Total Workforce Pie Chart by Location 2022"
+  }
+]

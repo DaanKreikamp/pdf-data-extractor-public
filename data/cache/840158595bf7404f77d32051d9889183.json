@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      121,
+      348,
+      423,
+      646
+    ],
+    "label": "Top-10 European cargo volumes and market share 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      614,
+      65,
+      914,
+      350
+    ],
+    "label": "Top-10 European passenger volumes and market share 2022"
+  }
+]

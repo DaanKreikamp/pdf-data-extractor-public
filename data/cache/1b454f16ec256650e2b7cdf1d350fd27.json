@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      190,
+      508,
+      350,
+      925
+    ],
+    "label": "Other non-current receivables 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      430,
+      508,
+      450,
+      925
+    ],
+    "label": "Other loans to associates: Carrying amount as at 1 January 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      512,
+      508,
+      575,
+      925
+    ],
+    "label": "Other loans to associates: Specification of movements in the year 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      612,
+      508,
+      632,
+      925
+    ],
+    "label": "Other loans to associates: Carrying amount as at 31 December 2021-2020"
+  }
+]

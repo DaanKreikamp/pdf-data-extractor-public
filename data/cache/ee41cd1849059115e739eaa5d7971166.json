@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      136,
+      495,
+      309,
+      936
+    ],
+    "label": "Remuneration for Supervisory Board members 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      399,
+      61,
+      569,
+      493
+    ],
+    "label": "Remuneration for Management Board members 2022"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      70,
+      279,
+      588
+    ],
+    "label": "Other non-current liabilities Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      222,
+      602,
+      289,
+      992
+    ],
+    "label": "Carrying amount of lease liabilities Table"
+  }
+]

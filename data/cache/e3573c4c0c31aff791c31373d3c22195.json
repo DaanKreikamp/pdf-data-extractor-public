@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      341,
+      39,
+      706,
+      294
+    ],
+    "label": "Outsourcing and other external costs 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      303,
+      303,
+      366,
+      552
+    ],
+    "label": "Auditor's fees 2021-2022"
+  }
+]

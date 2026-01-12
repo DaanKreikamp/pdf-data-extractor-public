@@ -1,0 +1,72 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      194,
+      63,
+      219,
+      471
+    ],
+    "label": "Consolidated Statement of Income 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      279,
+      63,
+      314,
+      471
+    ],
+    "label": "Consolidated Statement of Comprehensive Income 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      354,
+      63,
+      379,
+      471
+    ],
+    "label": "Consolidated Statement of Financial Position 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      419,
+      63,
+      454,
+      471
+    ],
+    "label": "Consolidated Statement of Changes in Equity 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      494,
+      63,
+      529,
+      471
+    ],
+    "label": "Consolidated Statement of Cash Flow 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      194,
+      530,
+      219,
+      908
+    ],
+    "label": "Company Income Statement 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      252,
+      530,
+      276,
+      908
+    ],
+    "label": "Company Balance Sheet 2022"
+  }
+]

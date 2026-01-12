@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      204,
+      60,
+      362,
+      497
+    ],
+    "label": "Other non-current receivables 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      378,
+      60,
+      597,
+      497
+    ],
+    "label": "Other loans to associates carrying amount and movements 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      179,
+      508,
+      451,
+      939
+    ],
+    "label": "Trade and other receivables 2021-2022"
+  }
+]

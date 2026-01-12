@@ -1,0 +1,82 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      256,
+      638,
+      309,
+      755
+    ],
+    "label": "ICA Destinations 118 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      309,
+      638,
+      362,
+      755
+    ],
+    "label": "CO₂ Emissions Compared to 2019 -14%"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      362,
+      638,
+      415,
+      755
+    ],
+    "label": "Reputation Score 7.5 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      415,
+      638,
+      468,
+      755
+    ],
+    "label": "On-time Performance 77.6% (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      468,
+      638,
+      521,
+      755
+    ],
+    "label": "Net Promoter Score 44 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      521,
+      638,
+      574,
+      755
+    ],
+    "label": "Net Safety Score 95.1 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      574,
+      638,
+      627,
+      755
+    ],
+    "label": "Employee Promoter Score 31 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      627,
+      638,
+      680,
+      755
+    ],
+    "label": "Return on Equity -8.8% (2021)"
+  }
+]

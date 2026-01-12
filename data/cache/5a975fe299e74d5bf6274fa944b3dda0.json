@@ -1,0 +1,82 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      472,
+      529,
+      630,
+      630
+    ],
+    "label": "Network ICA Destinations Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      572,
+      433,
+      673,
+      533
+    ],
+    "label": "Net Safety Score Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      672,
+      529,
+      774,
+      630
+    ],
+    "label": "Airlines On-time Performance Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      771,
+      432,
+      873,
+      533
+    ],
+    "label": "Employee Promoter Score Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      472,
+      724,
+      630,
+      825
+    ],
+    "label": "Local Residents Reputation Score Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      572,
+      627,
+      728,
+      728
+    ],
+    "label": "Sustainability CO₂e Emissions Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      672,
+      724,
+      774,
+      825
+    ],
+    "label": "Passengers Net Promoter Score Target 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      771,
+      627,
+      873,
+      728
+    ],
+    "label": "Shareholders Return on Equity Target 2023"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      146,
+      649,
+      458,
+      960
+    ],
+    "label": "Revenue 2023 Bar Chart"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      482,
+      649,
+      781,
+      959
+    ],
+    "label": "Underlying EBITDA 2023 Bar Chart"
+  }
+]

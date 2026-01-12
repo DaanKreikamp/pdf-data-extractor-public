@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      124,
+      508,
+      362,
+      940
+    ],
+    "label": "Commitments relating to contracts by period 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      628,
+      199,
+      903,
+      499
+    ],
+    "label": "Commitments arising from (long-term-) contracts by period 2023"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      134,
+      65,
+      308,
+      936
+    ],
+    "label": "Financial Ratios Table 2010-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      346,
+      65,
+      440,
+      936
+    ],
+    "label": "Figures per Share Table 2010-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      478,
+      65,
+      532,
+      936
+    ],
+    "label": "Personnel Table 2010-2022"
+  }
+]

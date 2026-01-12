@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      186,
+      60,
+      336,
+      493
+    ],
+    "label": "Employee Benefits Carrying Amounts 2023 and 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      197,
+      505,
+      514,
+      931
+    ],
+    "label": "Actuarial Assumptions and Estimates 2023 and 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      558,
+      60,
+      748,
+      490
+    ],
+    "label": "Movements in Post-Employment Benefit Liabilities 2023 and 2022"
+  }
+]

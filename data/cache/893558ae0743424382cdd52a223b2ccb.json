@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      153,
+      59,
+      560,
+      503
+    ],
+    "label": "Key Figures: Underlying Results and Adjustments Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      263,
+      510,
+      361,
+      938
+    ],
+    "label": "Key Figures: Financial Ratios Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      376,
+      510,
+      462,
+      938
+    ],
+    "label": "Key Figures: Business Volume and Workforce Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      567,
+      59,
+      616,
+      503
+    ],
+    "label": "Key Figures: Summary Financial Metrics Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      153,
+      510,
+      248,
+      938
+    ],
+    "label": "Key Figures: Underlying Operating Result by Business Area Table 2021-2022"
+  }
+]

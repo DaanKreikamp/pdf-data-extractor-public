@@ -1,0 +1,62 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      233,
+      62,
+      362,
+      490
+    ],
+    "label": "Eligible Green Project Portfolio Table 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      233,
+      506,
+      362,
+      937
+    ],
+    "label": "Green Funding Table 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      487,
+      62,
+      510,
+      489
+    ],
+    "label": "Percentage of Eligible Green Loan Portfolio Allocated (usage) Key Figure 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      513,
+      62,
+      558,
+      489
+    ],
+    "label": "Percentage of Net Proceeds of Green Funding allocated to Eligible Green Loan Portfolio Key Figure 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      562,
+      62,
+      584,
+      489
+    ],
+    "label": "Eligible Green Loan Portfolio – Unallocated Key Figure 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      588,
+      62,
+      633,
+      489
+    ],
+    "label": "Current value of expected eligible green buildings (currently under construction) Key Figure 2022"
+  }
+]

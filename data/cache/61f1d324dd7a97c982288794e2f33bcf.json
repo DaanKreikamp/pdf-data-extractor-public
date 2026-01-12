@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      107,
+      44,
+      555,
+      345
+    ],
+    "label": "Operating expenses 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      107,
+      650,
+      434,
+      955
+    ],
+    "label": "Operating result 2021-2020"
+  }
+]

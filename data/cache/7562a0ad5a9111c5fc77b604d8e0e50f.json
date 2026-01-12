@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      240,
+      67,
+      428,
+      948
+    ],
+    "label": "Borrowings by Type Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      494,
+      67,
+      988,
+      948
+    ],
+    "label": "Detailed Borrowings by Identifier Table 2022-2023"
+  }
+]

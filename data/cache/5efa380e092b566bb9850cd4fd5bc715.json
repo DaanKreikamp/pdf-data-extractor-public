@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      507,
+      508,
+      598,
+      936
+    ],
+    "label": "Liquidity Risk Contractual Cash Flows by Maturity 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      619,
+      237,
+      865,
+      497
+    ],
+    "label": "Provision for Bad Debt and Ageing Analysis 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      672,
+      508,
+      763,
+      936
+    ],
+    "label": "Liquidity Risk Contractual Cash Flows by Maturity 2022"
+  }
+]

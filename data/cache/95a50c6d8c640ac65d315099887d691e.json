@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      182,
+      654,
+      381,
+      936
+    ],
+    "label": "Direct Connectivity Top-10 European Airports Table 2019-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      472,
+      654,
+      762,
+      936
+    ],
+    "label": "Hub Connectivity Top-10 Airports Worldwide Table 2019-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      540,
+      355,
+      815,
+      634
+    ],
+    "label": "Air Transport Movements at Schiphol Table 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      717,
+      72,
+      915,
+      345
+    ],
+    "label": "Passenger Volumes by Continent Map 2022"
+  }
+]

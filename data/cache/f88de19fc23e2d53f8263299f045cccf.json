@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      162,
+      359,
+      360,
+      939
+    ],
+    "label": "Aviation Financial Performance Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      406,
+      358,
+      584,
+      939
+    ],
+    "label": "Aviation and Security Financial Performance Table 2022-2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      668,
+      83,
+      866,
+      326
+    ],
+    "label": "Schiphol's Market Share in Passenger Volume Pie Charts 2022-2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      668,
+      358,
+      976,
+      630
+    ],
+    "label": "Aviation Business Area Costs Bar Chart 2018-2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      668,
+      649,
+      976,
+      927
+    ],
+    "label": "Costs per WLU (Aviation) Bar Chart 2018-2023"
+  }
+]

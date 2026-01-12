@@ -1,0 +1,82 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      477,
+      542,
+      567,
+      635
+    ],
+    "label": "Network ICA Destinations Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      477,
+      772,
+      567,
+      863
+    ],
+    "label": "Local Residents Reputation Score Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      584,
+      449,
+      674,
+      540
+    ],
+    "label": "Safety Net Safety Score Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      584,
+      658,
+      674,
+      750
+    ],
+    "label": "Sustainability CO₂ Emissions Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      691,
+      542,
+      781,
+      635
+    ],
+    "label": "Airlines On-time Performance Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      691,
+      772,
+      781,
+      863
+    ],
+    "label": "Shareholders Return on Equity Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      796,
+      449,
+      887,
+      540
+    ],
+    "label": "Employees Employee Promoter Score Target 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      796,
+      658,
+      887,
+      750
+    ],
+    "label": "Passengers Net Promoter Score Target 2022"
+  }
+]

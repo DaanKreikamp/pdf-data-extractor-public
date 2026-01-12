@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      247,
+      663,
+      428,
+      796
+    ],
+    "label": "Sustainability CO₂e Emissions -65% (vs 2019)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      247,
+      804,
+      428,
+      936
+    ],
+    "label": "Local Residents Reputation Score 6.0"
+  }
+]

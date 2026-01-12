@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      358,
+      49,
+      458,
+      307
+    ],
+    "label": "Employees by Location Table 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      266,
+      534,
+      355,
+      768
+    ],
+    "label": "Revenue by Segment Bar Chart 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      411,
+      534,
+      501,
+      768
+    ],
+    "label": "Underlying EBITDA by Segment Bar Chart 2022"
+  }
+]

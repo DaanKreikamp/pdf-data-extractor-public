@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      161,
+      108,
+      221,
+      499
+    ],
+    "label": "Audit Coverage for Total Assets 2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      253,
+      108,
+      311,
+      499
+    ],
+    "label": "Audit Coverage for Revenue 2022"
+  }
+]

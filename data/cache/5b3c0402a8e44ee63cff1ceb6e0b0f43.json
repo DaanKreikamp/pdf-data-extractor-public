@@ -1,0 +1,72 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      174,
+      58,
+      280,
+      497
+    ],
+    "label": "Property Management Expenses by Occupied and Unoccupied Buildings 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      389,
+      61,
+      493,
+      498
+    ],
+    "label": "Parking Fees - Public and Business Parking Revenues 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      515,
+      61,
+      620,
+      498
+    ],
+    "label": "Parking Fees - Other Locations and Intercompany Revenue 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      172,
+      507,
+      386,
+      947
+    ],
+    "label": "Other Activities Revenue Breakdown 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      469,
+      507,
+      554,
+      947
+    ],
+    "label": "Other Results from Investment Property - Gain/Loss on Sale of Property 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      578,
+      507,
+      715,
+      947
+    ],
+    "label": "Other Results from Investment Property - Fair Value Gains and Losses 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      735,
+      507,
+      760,
+      947
+    ],
+    "label": "Total Other Revenues from Investment Property 2021-2022"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      126,
+      63,
+      724,
+      952
+    ],
+    "label": "Consolidated statement of changes in equity for the year ended 31 December 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      782,
+      65,
+      860,
+      500
+    ],
+    "label": "Dividend attributable to shareholders 2021-2023"
+  }
+]

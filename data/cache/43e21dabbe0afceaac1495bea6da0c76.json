@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      136,
+      70,
+      370,
+      925
+    ],
+    "label": "Attendance in Supervisory Board Committees 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      577,
+      654,
+      772,
+      926
+    ],
+    "label": "Number of Supervisory Board Committee Meetings"
+  }
+]

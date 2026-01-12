@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      524,
+      60,
+      615,
+      492
+    ],
+    "label": "Current Liabilities Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      236,
+      508,
+      288,
+      932
+    ],
+    "label": "Income Taxes - Result Before Tax Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      318,
+      508,
+      367,
+      932
+    ],
+    "label": "Income Taxes - Income Tax Calculated at Domestic Tax Rate Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      395,
+      508,
+      593,
+      932
+    ],
+    "label": "Income Taxes - Detailed Income Tax Expense Table 2022-2023"
+  }
+]

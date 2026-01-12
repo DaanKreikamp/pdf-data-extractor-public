@@ -1,0 +1,82 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      141,
+      68,
+      269,
+      497
+    ],
+    "label": "Investments in Associates and Joint Ventures Summary Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      292,
+      68,
+      362,
+      497
+    ],
+    "label": "Associates Carrying Amount as at 1 January Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      386,
+      68,
+      663,
+      497
+    ],
+    "label": "Associates Movements in the Year Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      670,
+      68,
+      706,
+      497
+    ],
+    "label": "Associates Carrying Amount as at 31 December Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      142,
+      508,
+      192,
+      936
+    ],
+    "label": "Joint Ventures Carrying Amount as at 1 January Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      200,
+      508,
+      412,
+      936
+    ],
+    "label": "Joint Ventures Movements in the Year Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      420,
+      508,
+      456,
+      936
+    ],
+    "label": "Joint Ventures Carrying Amount as at 31 December Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      716,
+      509,
+      810,
+      936
+    ],
+    "label": "Percentage Interest in Specific Joint Ventures Table 2021-2022"
+  }
+]

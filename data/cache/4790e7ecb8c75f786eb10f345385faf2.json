@@ -1,0 +1,62 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      165,
+      62,
+      195,
+      498
+    ],
+    "label": "Carrying amount of Non-current assets as at 31 December 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      207,
+      62,
+      336,
+      498
+    ],
+    "label": "Movements in Non-current assets 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      347,
+      62,
+      376,
+      498
+    ],
+    "label": "Carrying amount of Non-current assets as at 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      388,
+      62,
+      499,
+      498
+    ],
+    "label": "Movements in Non-current assets 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      511,
+      62,
+      541,
+      498
+    ],
+    "label": "Carrying amount of Non-current assets as at 31 December 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      318,
+      507,
+      372,
+      938
+    ],
+    "label": "Group companies balances Current assets 2021-2022"
+  }
+]

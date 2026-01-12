@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      141,
+      57,
+      380,
+      358
+    ],
+    "label": "Gender Split by Location Bar Chart 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      141,
+      357,
+      342,
+      635
+    ],
+    "label": "Total Workforce by Location Donut Chart 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      405,
+      355,
+      593,
+      636
+    ],
+    "label": "Employees by Location Table 2021"
+  }
+]

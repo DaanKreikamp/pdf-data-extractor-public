@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      727,
+      343,
+      899,
+      492
+    ],
+    "label": "Passengers Net Promoter Score 36"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      727,
+      508,
+      899,
+      638
+    ],
+    "label": "Airlines On-time Performance 59%"
+  }
+]

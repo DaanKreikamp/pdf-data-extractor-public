@@ -1,0 +1,82 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      248,
+      597,
+      305,
+      689
+    ],
+    "label": "Intercontinental destinations 126"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      327,
+      597,
+      396,
+      689
+    ],
+    "label": "CO₂e emissions compared to 2019 -65%"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      415,
+      597,
+      473,
+      689
+    ],
+    "label": "Reputation score 6"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      520,
+      597,
+      577,
+      689
+    ],
+    "label": "Employee Promoter Score 24"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      600,
+      597,
+      659,
+      689
+    ],
+    "label": "On-time Performance 59%"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      679,
+      597,
+      737,
+      689
+    ],
+    "label": "Net Promoter Score 36"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      776,
+      597,
+      834,
+      689
+    ],
+    "label": "Net Safety Score 96.2"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      875,
+      597,
+      933,
+      689
+    ],
+    "label": "Return on Equity 2.9%"
+  }
+]

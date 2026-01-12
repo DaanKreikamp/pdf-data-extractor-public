@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      141,
+      57,
+      566,
+      497
+    ],
+    "label": "Fair Value of Financial Instruments 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      141,
+      502,
+      566,
+      940
+    ],
+    "label": "Fair Value of Financial Instruments 2020"
+  }
+]

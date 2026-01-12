@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      209,
+      65,
+      781,
+      930
+    ],
+    "label": "Consolidated Statement of Changes in Equity 2019-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      846,
+      65,
+      938,
+      497
+    ],
+    "label": "Dividend and Share Information 2019-2021"
+  }
+]

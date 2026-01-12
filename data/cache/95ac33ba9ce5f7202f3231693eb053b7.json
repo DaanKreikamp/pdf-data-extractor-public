@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      116,
+      59,
+      579,
+      947
+    ],
+    "label": "Project Completions by Asset Category 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      673,
+      504,
+      790,
+      947
+    ],
+    "label": "Movement in Right-of-Use Assets 2023"
+  }
+]

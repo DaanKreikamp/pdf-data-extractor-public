@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      116,
+      59,
+      545,
+      936
+    ],
+    "label": "Capital Expenditures on Projects Completed 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      721,
+      44,
+      893,
+      497
+    ],
+    "label": "Movement in Right-of-Use Assets 2022"
+  }
+]

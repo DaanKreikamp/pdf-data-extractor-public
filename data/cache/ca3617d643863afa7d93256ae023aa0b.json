@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      65,
+      269,
+      497
+    ],
+    "label": "Investments in associates and joint ventures carrying amount at 31 December 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      292,
+      65,
+      676,
+      497
+    ],
+    "label": "Associates: movements in carrying amount 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      137,
+      509,
+      362,
+      938
+    ],
+    "label": "Joint ventures: movements in carrying amount 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      710,
+      508,
+      835,
+      938
+    ],
+    "label": "Ownership percentages in Brisbane Airport Corporation Holdings Ltd (BACH) and Tasmanian Gateway Holdings Corporation Pty Ltd (TGHC) 2020-2021"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      216,
+      56,
+      360,
+      498
+    ],
+    "label": "Airport Charges Table 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      160,
+      663,
+      401,
+      930
+    ],
+    "label": "Settlement of Airport Charges Surplus/Deficit Table 2017-2024"
+  }
+]

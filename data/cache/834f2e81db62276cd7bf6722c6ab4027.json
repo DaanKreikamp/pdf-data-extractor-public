@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      219,
+      508,
+      326,
+      930
+    ],
+    "label": "Green buildings as per December 31, 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      448,
+      508,
+      513,
+      930
+    ],
+    "label": "Clean transportation as per December 31, 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      799,
+      81,
+      922,
+      917
+    ],
+    "label": "Green bond details"
+  }
+]

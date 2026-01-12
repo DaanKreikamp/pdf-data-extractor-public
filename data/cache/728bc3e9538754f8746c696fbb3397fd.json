@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      140,
+      509,
+      188,
+      933
+    ],
+    "label": "Intangible Assets Useful Life"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      241,
+      509,
+      441,
+      933
+    ],
+    "label": "Useful Life of Assets Used for Operating Activities"
+  }
+]

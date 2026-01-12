@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      140,
+      60,
+      390,
+      349
+    ],
+    "label": "Revenue Breakdown 2021-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      404,
+      650,
+      687,
+      929
+    ],
+    "label": "Fair Value Gains and Losses on Real Estate Portfolio Chart 2018-2022"
+  }
+]

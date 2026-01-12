@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      238,
+      59,
+      303,
+      497
+    ],
+    "label": "Significant Assumptions for Buildings Valuation Model 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      309,
+      508,
+      344,
+      931
+    ],
+    "label": "Reconciliation of Effective Tax Rate - Result Before Tax 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      369,
+      508,
+      650,
+      931
+    ],
+    "label": "Income Tax Calculated at Domestic Tax Rate 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      739,
+      61,
+      804,
+      498
+    ],
+    "label": "Significant Assumptions for Land Valuation Model 2022-2021"
+  }
+]

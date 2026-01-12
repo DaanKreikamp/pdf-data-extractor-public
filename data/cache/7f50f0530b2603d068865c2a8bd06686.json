@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      547,
+      51,
+      622,
+      946
+    ],
+    "label": "Supervisory Board Members Personal and Appointment Information 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      678,
+      51,
+      904,
+      946
+    ],
+    "label": "Supervisory Board Members Fields of Knowledge Matrix 2023"
+  }
+]

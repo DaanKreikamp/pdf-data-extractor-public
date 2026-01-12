@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      412,
+      66,
+      530,
+      490
+    ],
+    "label": "Financial Income and Expenses: Interest and other financial income 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      559,
+      66,
+      829,
+      490
+    ],
+    "label": "Financial Income and Expenses: Interest and other financial expenses 2020-2021"
+  }
+]

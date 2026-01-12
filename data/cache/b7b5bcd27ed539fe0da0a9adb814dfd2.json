@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      405,
+      658,
+      524,
+      778
+    ],
+    "label": "Employees Employee Promoter Score 6.8 KPI"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      405,
+      802,
+      524,
+      928
+    ],
+    "label": "Shareholders Return on Equity -0.8% KPI"
+  }
+]

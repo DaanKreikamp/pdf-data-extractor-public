@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      265,
+      59,
+      386,
+      497
+    ],
+    "label": "Fixed Lease Payments and Contract Expiration 2023-2027"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      490,
+      59,
+      597,
+      490
+    ],
+    "label": "Property Management Expenses 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      692,
+      59,
+      800,
+      489
+    ],
+    "label": "Parking Fees (Public and Business) 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      840,
+      59,
+      918,
+      489
+    ],
+    "label": "Parking Fees (Other Locations and Intercompany) 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      289,
+      509,
+      597,
+      937
+    ],
+    "label": "Other Activities Revenue 2022-2023"
+  }
+]

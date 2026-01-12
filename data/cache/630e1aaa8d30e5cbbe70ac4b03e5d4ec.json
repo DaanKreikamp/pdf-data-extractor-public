@@ -1,0 +1,72 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      137,
+      63,
+      163,
+      471
+    ],
+    "label": "Consolidated statement of income for the year ended 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      170,
+      63,
+      196,
+      471
+    ],
+    "label": "Consolidated statement of comprehensive income for the year ended 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      203,
+      63,
+      220,
+      471
+    ],
+    "label": "Consolidated statement of financial position as at 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      233,
+      63,
+      259,
+      471
+    ],
+    "label": "Consolidated statement of changes in equity for the year ended 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      272,
+      63,
+      298,
+      471
+    ],
+    "label": "Consolidated statement of cash flow for the year ended 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      137,
+      530,
+      154,
+      915
+    ],
+    "label": "Company income statement for the year ended 31 December 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      168,
+      530,
+      185,
+      915
+    ],
+    "label": "Company balance sheet as at 31 December 2021"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      147,
+      47,
+      364,
+      364
+    ],
+    "label": "Revenue Breakdown Table 2020-2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      648,
+      365,
+      900,
+      620
+    ],
+    "label": "Fair value gains and losses on real estate portfolio bar chart 2017-2021"
+  }
+]

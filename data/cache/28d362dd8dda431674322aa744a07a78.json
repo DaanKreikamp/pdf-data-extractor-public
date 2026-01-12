@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      165,
+      60,
+      345,
+      490
+    ],
+    "label": "Employee Benefits Liability as at 31 December 2021 and 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      135,
+      495,
+      415,
+      930
+    ],
+    "label": "Actuarial Assumptions and Estimates as at 31 December 2021 and 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      550,
+      60,
+      765,
+      490
+    ],
+    "label": "Movements in Post-employment Benefit Liabilities 2021 and 2020"
+  }
+]

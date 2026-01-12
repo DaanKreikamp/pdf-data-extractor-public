@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      353,
+      362,
+      953
+    ],
+    "label": "Aviation Financial Performance 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      404,
+      353,
+      584,
+      953
+    ],
+    "label": "Aviation and Security Financial Performance 2021-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      669,
+      64,
+      874,
+      347
+    ],
+    "label": "Schiphol's Market Share in Passenger Volume 2021-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      671,
+      350,
+      970,
+      630
+    ],
+    "label": "Aviation Business Area Costs 2018-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      671,
+      642,
+      970,
+      929
+    ],
+    "label": "Aviation Costs per WLU 2018-2022"
+  }
+]

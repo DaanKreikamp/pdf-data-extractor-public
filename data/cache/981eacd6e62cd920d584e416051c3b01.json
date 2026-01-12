@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      136,
+      506,
+      260,
+      937
+    ],
+    "label": "Fixed Lease Payments from Current Contracts (in thousands of euros) and Percentage of Contracts to Expire 2023-2027"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      433,
+      506,
+      589,
+      937
+    ],
+    "label": "Rent and Leases Breakdown (in thousands of euros) 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      584,
+      63,
+      755,
+      494
+    ],
+    "label": "Concessions Revenue Breakdown (in thousands of euros) 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      796,
+      506,
+      919,
+      937
+    ],
+    "label": "Fixed Lease Payments from Current Contracts (in millions of euros) and Percentage of Contracts to Expire 2023-2027"
+  }
+]

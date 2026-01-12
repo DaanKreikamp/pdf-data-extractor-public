@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      229,
+      44,
+      370,
+      497
+    ],
+    "label": "Eligible Green Project Portfolio 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      229,
+      503,
+      370,
+      953
+    ],
+    "label": "Green Funding Instruments 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      493,
+      64,
+      584,
+      630
+    ],
+    "label": "Green Loan Portfolio Allocation and Usage 2021"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      144,
+      66,
+      260,
+      488
+    ],
+    "label": "Auditor's Fees Table 2023-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      204,
+      508,
+      362,
+      933
+    ],
+    "label": "Total Employee Benefits Summary Table 2023-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      399,
+      508,
+      556,
+      933
+    ],
+    "label": "Short-term Employee Benefits Detail Table 2023-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      577,
+      508,
+      666,
+      933
+    ],
+    "label": "Post-retirement Benefits Detail Table 2023-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      687,
+      508,
+      776,
+      933
+    ],
+    "label": "Other Long-term Employee Benefits Detail Table 2023-2022"
+  }
+]

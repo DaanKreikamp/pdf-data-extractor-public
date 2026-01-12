@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      135,
+      509,
+      202,
+      917
+    ],
+    "label": "Intangible Assets Useful Lives"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      241,
+      509,
+      495,
+      917
+    ],
+    "label": "Assets Used for Operating Activities Useful Lives"
+  }
+]

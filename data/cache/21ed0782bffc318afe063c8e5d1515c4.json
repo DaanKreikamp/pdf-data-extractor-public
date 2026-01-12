@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      265,
+      508,
+      507,
+      939
+    ],
+    "label": "Interest and Other Financial Income Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      537,
+      509,
+      779,
+      939
+    ],
+    "label": "Interest and Other Financial Expenses Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      797,
+      509,
+      814,
+      939
+    ],
+    "label": "Total Financial Income and Expenses Summary 2021-2022"
+  }
+]

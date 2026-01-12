@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      114,
+      65,
+      428,
+      395
+    ],
+    "label": "Assets under construction or development - Movements 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      114,
+      427,
+      308,
+      750
+    ],
+    "label": "Capital Expenditures by Project 2021"
+  }
+]

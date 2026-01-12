@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      214,
+      508,
+      404,
+      933
+    ],
+    "label": "Surplus/Deficit and Charges Adjustment Table 2018-2026"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      462,
+      58,
+      627,
+      497
+    ],
+    "label": "Airport Charges Breakdown Table 2022-2023"
+  }
+]

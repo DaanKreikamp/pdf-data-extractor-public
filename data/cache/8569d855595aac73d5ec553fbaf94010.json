@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      64,
+      345,
+      497
+    ],
+    "label": "Other non-current liabilities 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      508,
+      485,
+      936
+    ],
+    "label": "Trade and other payables 2022-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      780,
+      68,
+      895,
+      495
+    ],
+    "label": "Carrying amount of lease liabilities"
+  }
+]

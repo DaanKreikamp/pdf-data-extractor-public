@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      149,
+      57,
+      545,
+      497
+    ],
+    "label": "Subsidiaries List with Direct/Indirect Interest"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      202,
+      508,
+      444,
+      933
+    ],
+    "label": "Abridged Balance Sheet for Minority Interest in Eindhoven Airport N.V. 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      538,
+      508,
+      846,
+      933
+    ],
+    "label": "Abridged Income Statement for Eindhoven Airport N.V. 2022-2023"
+  }
+]

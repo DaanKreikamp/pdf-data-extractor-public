@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      209,
+      65,
+      729,
+      497
+    ],
+    "label": "Movement of Non-current Assets 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      239,
+      506,
+      299,
+      930
+    ],
+    "label": "Current Assets Group companies balances 2022-2023"
+  }
+]

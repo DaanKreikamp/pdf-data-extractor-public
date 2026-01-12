@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      325,
+      58,
+      498,
+      501
+    ],
+    "label": "Reclassification to profit or loss in next periods for 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      520,
+      58,
+      701,
+      496
+    ],
+    "label": "Reclassification to profit or loss in next periods for 2022"
+  }
+]

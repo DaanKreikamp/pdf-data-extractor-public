@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      263,
+      76,
+      655,
+      337
+    ],
+    "label": "Lden Noise Contours Map 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      143,
+      646,
+      209,
+      936
+    ],
+    "label": "Number of Complainants Table 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      238,
+      360,
+      334,
+      936
+    ],
+    "label": "Number of Complaints by Type Table 2020-2021"
+  }
+]

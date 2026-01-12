@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      300,
+      142,
+      417,
+      499
+    ],
+    "label": "Bad Debt and Ageing Analysis Table"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      137,
+      508,
+      335,
+      933
+    ],
+    "label": "Financial Liability by Maturity Table 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      381,
+      508,
+      579,
+      932
+    ],
+    "label": "Financial Liability by Maturity Table 2020"
+  }
+]

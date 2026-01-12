@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      216,
+      506,
+      335,
+      930
+    ],
+    "label": "Green Buildings Key Figures as at 31 December 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      420,
+      506,
+      483,
+      930
+    ],
+    "label": "Clean Transportation Key Figures as at 31 December 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      800,
+      77,
+      917,
+      908
+    ],
+    "label": "Green Bond Issuance Details"
+  }
+]

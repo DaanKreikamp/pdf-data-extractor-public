@@ -1,0 +1,3 @@
+# Backend Documentation
+
+Please refer to the main [Project README](../README.md) in the root directory for all documentation regarding the backend setup, architecture, and usage.

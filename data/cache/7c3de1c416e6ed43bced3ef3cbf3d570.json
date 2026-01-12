@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      667,
+      65,
+      960,
+      320
+    ],
+    "label": "Aviation Business Area Costs Chart 2017-2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      667,
+      365,
+      960,
+      620
+    ],
+    "label": "Aviation Costs per WLU Chart 2017-2021"
+  }
+]

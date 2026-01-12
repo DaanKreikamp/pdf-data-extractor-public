@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      164,
+      356,
+      381,
+      929
+    ],
+    "label": "Schiphol Commercial Operating Results 2020-2021 (EUR million)"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      439,
+      356,
+      622,
+      929
+    ],
+    "label": "Schiphol Commercial Operating Results by Segment 2020-2021 (in EUR 1,000)"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      668,
+      65,
+      792,
+      344
+    ],
+    "label": "Spend per Departing Passenger at Schiphol 2020-2021 (in EUR)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      662,
+      355,
+      934,
+      617
+    ],
+    "label": "Public Parking Revenue per Arriving Passenger Bar Chart 2020-2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      662,
+      638,
+      934,
+      915
+    ],
+    "label": "Real Estate Average Physical Occupancy Rate Bar Chart 2020-2021"
+  }
+]

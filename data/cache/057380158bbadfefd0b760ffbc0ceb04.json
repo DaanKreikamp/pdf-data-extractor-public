@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      263,
+      70,
+      310,
+      486
+    ],
+    "label": "Audit Materiality Key Figures 2017-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      332,
+      70,
+      396,
+      486
+    ],
+    "label": "Group Audit Coverage Key Figures"
+  }
+]

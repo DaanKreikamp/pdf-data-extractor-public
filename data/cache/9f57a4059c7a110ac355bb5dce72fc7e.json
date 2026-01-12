@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      162,
+      360,
+      396,
+      934
+    ],
+    "label": "Schiphol Commercial Summary Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      422,
+      359,
+      616,
+      934
+    ],
+    "label": "Schiphol Commercial Segment Breakdown Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      668,
+      64,
+      783,
+      347
+    ],
+    "label": "Spend per Departing Passenger Table 2021-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      668,
+      357,
+      938,
+      629
+    ],
+    "label": "Public Parking Revenue per Arriving Passenger Chart 2021-2022"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      668,
+      649,
+      938,
+      932
+    ],
+    "label": "Real Estate Average Physical Occupancy Rate Chart 2021-2022"
+  }
+]

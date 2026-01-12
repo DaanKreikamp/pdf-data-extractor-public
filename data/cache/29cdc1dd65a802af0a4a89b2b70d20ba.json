@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      746,
+      62,
+      868,
+      357
+    ],
+    "label": "Turnover of Taxonomy-eligible Activities Table 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      746,
+      355,
+      868,
+      642
+    ],
+    "label": "CAPEX of Taxonomy-eligible Activities Table 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      537,
+      650,
+      659,
+      936
+    ],
+    "label": "OPEX of Taxonomy-eligible Activities Table 2023"
+  }
+]

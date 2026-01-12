@@ -1,0 +1,82 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      213,
+      56,
+      497,
+      492
+    ],
+    "label": "Underlying results 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      531,
+      56,
+      755,
+      492
+    ],
+    "label": "Underlying result for the year with adjustments 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      781,
+      56,
+      796,
+      492
+    ],
+    "label": "Net result for the year attributable to shareholders 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      826,
+      56,
+      842,
+      492
+    ],
+    "label": "Total equity 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      873,
+      56,
+      908,
+      492
+    ],
+    "label": "Investments and Cash flow from operating activities 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      214,
+      502,
+      381,
+      939
+    ],
+    "label": "Business areas - Underlying operating result 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      398,
+      502,
+      517,
+      939
+    ],
+    "label": "Ratios 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      549,
+      502,
+      642,
+      939
+    ],
+    "label": "Business volume (in numbers) 2021-2020"
+  }
+]

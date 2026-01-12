@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      323,
+      62,
+      900,
+      497
+    ],
+    "label": "Other Reserves Movements and Balances 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      141,
+      493,
+      700,
+      930
+    ],
+    "label": "Other Reserves Movements and Balances 2022"
+  }
+]

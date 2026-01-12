@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      147,
+      67,
+      700,
+      493
+    ],
+    "label": "Associates and Joint Ventures Financial Table (Income Statement and Financial Position) 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      502,
+      501,
+      932
+    ],
+    "label": "Loans to Associates and Joint Ventures Movement Table 2022-2023"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      289,
+      178,
+      500,
+      362
+    ],
+    "label": "Safety Net Safety Score 95.1 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      576,
+      178,
+      786,
+      362
+    ],
+    "label": "Employees Employee Promoter Score 31 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      148,
+      309,
+      359,
+      490
+    ],
+    "label": "Network ICA destinations 118 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      440,
+      309,
+      650,
+      491
+    ],
+    "label": "Airlines On-time Performance 77.6% (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      295,
+      497,
+      508,
+      680
+    ],
+    "label": "Sustainability CO2 emissions -14% (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      576,
+      497,
+      786,
+      680
+    ],
+    "label": "Passengers Net Promoter Score 44 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      148,
+      687,
+      359,
+      870
+    ],
+    "label": "Local residents Reputation Score 7.5 (2021)"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      440,
+      687,
+      650,
+      870
+    ],
+    "label": "Shareholders Return on Equity -8.8% (2021)"
+  }
+]

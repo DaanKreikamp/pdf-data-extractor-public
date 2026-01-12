@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      153,
+      65,
+      363,
+      494
+    ],
+    "label": "Other results from investment property Table 2023-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      153,
+      507,
+      569,
+      938
+    ],
+    "label": "Outsourcing and Other External Costs Table 2023-2022"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      305,
+      66,
+      424,
+      492
+    ],
+    "label": "Current Liabilities Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      241,
+      507,
+      545,
+      934
+    ],
+    "label": "Income Taxes Table 2021-2022"
+  }
+]

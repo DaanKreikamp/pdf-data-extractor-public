@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      100,
+      508,
+      290,
+      950
+    ],
+    "label": "Employee Benefits Expense Summary 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      320,
+      508,
+      460,
+      950
+    ],
+    "label": "Short-term Employee Benefits Expense Breakdown 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      490,
+      508,
+      590,
+      950
+    ],
+    "label": "Post-retirement Employee Benefits Expense Breakdown 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      615,
+      508,
+      715,
+      950
+    ],
+    "label": "Other Long-term Employee Benefits Expense Breakdown 2021-2022"
+  }
+]

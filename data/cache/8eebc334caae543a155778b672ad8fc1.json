@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      201,
+      57,
+      371,
+      936
+    ],
+    "label": "Borrowings by type 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      422,
+      57,
+      850,
+      936
+    ],
+    "label": "Borrowings by ISIN (EMTN programme) 2021-2022"
+  }
+]

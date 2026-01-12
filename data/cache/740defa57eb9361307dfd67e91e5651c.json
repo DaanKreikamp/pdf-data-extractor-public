@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      171,
+      647,
+      341,
+      770
+    ],
+    "label": "Quality of Service Passengers Net Promoter Score 26"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      171,
+      789,
+      341,
+      915
+    ],
+    "label": "Quality of Service Airlines On-time Performance 57%"
+  }
+]

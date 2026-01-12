@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      373,
+      360,
+      634,
+      634
+    ],
+    "label": "Revenue Breakdown Donut Chart 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      662,
+      360,
+      920,
+      630
+    ],
+    "label": "Underlying EBITDA Bar Chart 2021"
+  }
+]

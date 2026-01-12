@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      509,
+      408,
+      946
+    ],
+    "label": "Trade and other receivables Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      501,
+      54,
+      658,
+      493
+    ],
+    "label": "Other non-current receivables Table 2022-2023"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      179,
+      64,
+      280,
+      492
+    ],
+    "label": "Property Management Expenses 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      374,
+      64,
+      474,
+      492
+    ],
+    "label": "Parking Fees Revenue (Public and Business Parking) 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      509,
+      64,
+      580,
+      492
+    ],
+    "label": "Parking Fees Details (Other Locations and Intercompany Revenue) 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      141,
+      506,
+      381,
+      936
+    ],
+    "label": "Other Activities Revenues and Expenses 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      463,
+      506,
+      730,
+      937
+    ],
+    "label": "Other Results from Investment Property 2021-2020"
+  }
+]

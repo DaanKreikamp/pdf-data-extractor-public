@@ -1,0 +1,62 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      159,
+      68,
+      269,
+      497
+    ],
+    "label": "Investments in Associates and Joint Ventures Summary 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      299,
+      68,
+      355,
+      497
+    ],
+    "label": "Associates Carrying Amount as at 1 January 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      385,
+      68,
+      626,
+      497
+    ],
+    "label": "Movements in Associates Carrying Amount 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      159,
+      508,
+      203,
+      936
+    ],
+    "label": "Joint Ventures Carrying Amount as at 1 January 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      216,
+      508,
+      477,
+      936
+    ],
+    "label": "Movements in Joint Ventures Carrying Amount 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      684,
+      508,
+      755,
+      936
+    ],
+    "label": "Joint Venture Ownership Percentages 2022-2023"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      216,
+      506,
+      326,
+      936
+    ],
+    "label": "Green buildings data 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      448,
+      506,
+      513,
+      936
+    ],
+    "label": "Clean transportation data 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      799,
+      81,
+      917,
+      917
+    ],
+    "label": "Green bond issuance details 2018, 2020"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      283,
+      348,
+      589,
+      640
+    ],
+    "label": "Top ten European passenger volumes and market share 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      616,
+      348,
+      915,
+      640
+    ],
+    "label": "Top ten European cargo volumes and market share 2021"
+  }
+]

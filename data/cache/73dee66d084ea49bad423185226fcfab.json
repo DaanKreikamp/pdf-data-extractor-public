@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      139,
+      502,
+      497,
+      930
+    ],
+    "label": "Investment Property Reconciliation 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      507,
+      502,
+      772,
+      930
+    ],
+    "label": "Investment Property Reconciliation 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      811,
+      502,
+      878,
+      930
+    ],
+    "label": "Investment Property Valuation Models"
+  }
+]

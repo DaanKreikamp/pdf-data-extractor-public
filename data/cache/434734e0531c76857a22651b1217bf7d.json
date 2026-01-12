@@ -1,0 +1,62 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      187,
+      63,
+      225,
+      930
+    ],
+    "label": "Carrying amount of Assets used for Operating Activities as at 1 January 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      247,
+      63,
+      388,
+      930
+    ],
+    "label": "Movements in Assets used for Operating Activities 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      408,
+      63,
+      526,
+      930
+    ],
+    "label": "Analysis of Assets used for Operating Activities as at 31 December 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      530,
+      63,
+      568,
+      930
+    ],
+    "label": "Carrying amount of Assets used for Operating Activities as at 1 January 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      588,
+      63,
+      730,
+      930
+    ],
+    "label": "Movements in Assets used for Operating Activities 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      750,
+      63,
+      830,
+      930
+    ],
+    "label": "Analysis of Assets used for Operating Activities as at 31 December 2021"
+  }
+]

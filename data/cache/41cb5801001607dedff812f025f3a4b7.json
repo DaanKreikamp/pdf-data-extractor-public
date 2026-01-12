@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      238,
+      59,
+      786,
+      497
+    ],
+    "label": "Underlying Results Financial Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      809,
+      59,
+      893,
+      497
+    ],
+    "label": "Selected Financial Figures Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      238,
+      508,
+      360,
+      937
+    ],
+    "label": "Business Areas Operating Result Financial Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      382,
+      508,
+      524,
+      882
+    ],
+    "label": "Key Financial Ratios Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      533,
+      508,
+      646,
+      937
+    ],
+    "label": "Business Volume and Workforce Data Table 2022-2023"
+  }
+]

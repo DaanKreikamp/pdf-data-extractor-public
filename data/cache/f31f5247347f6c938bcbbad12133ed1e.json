@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      359,
+      57,
+      402,
+      436
+    ],
+    "label": "Intangible Assets - Carrying Amount 1 January 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      429,
+      57,
+      646,
+      437
+    ],
+    "label": "Intangible Assets - Movements 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      671,
+      57,
+      832,
+      437
+    ],
+    "label": "Intangible Assets - Analysis 31 December 2020"
+  }
+]

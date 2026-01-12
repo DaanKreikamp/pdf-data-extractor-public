@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      156,
+      72,
+      415,
+      587
+    ],
+    "label": "Income tax recognised in equity details 2021 and 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      484,
+      72,
+      693,
+      560
+    ],
+    "label": "Current income tax positions 2021 and 2020"
+  }
+]

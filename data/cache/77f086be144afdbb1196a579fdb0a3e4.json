@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      140,
+      42,
+      397,
+      508
+    ],
+    "label": "Funds From Operations Table 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      564,
+      62,
+      765,
+      508
+    ],
+    "label": "Debt and Liabilities Table 2021-2022"
+  }
+]

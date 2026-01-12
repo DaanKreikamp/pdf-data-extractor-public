@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      275,
+      56,
+      350,
+      501
+    ],
+    "label": "Remaining terms of borrowings as at 31 December 2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      169,
+      506,
+      740,
+      930
+    ],
+    "label": "Movements in borrowings 2022 and 2023"
+  }
+]

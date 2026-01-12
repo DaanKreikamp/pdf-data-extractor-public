@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      238,
+      61,
+      399,
+      502
+    ],
+    "label": "Airport Charges 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      184,
+      532,
+      407,
+      929
+    ],
+    "label": "Surplus or Deficit 2017-2026"
+  }
+]

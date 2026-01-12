@@ -1,0 +1,31 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      158,
+      353,
+      408,
+      939
+    ],
+    "label": "Alliances & Participations Financial Summary 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      424,
+      353,
+      613,
+      939
+    ],
+    "label": "Alliances & Participations Detailed Financial Results by Segment 2022-2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      664,
+      103,
+      938
+    ],
+    "label": "Number of passengers by airport bar chart 2022-2023"
+  }
+]

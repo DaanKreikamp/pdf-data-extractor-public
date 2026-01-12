@@ -1,0 +1,192 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      257,
+      57,
+      340,
+      233
+    ],
+    "label": "Direct Destinations from Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      440,
+      56,
+      508,
+      269
+    ],
+    "label": "Air Transport Movements at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      557,
+      56,
+      626,
+      271
+    ],
+    "label": "Million Passengers Schiphol Group 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      669,
+      56,
+      737,
+      266
+    ],
+    "label": "Million Passengers at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      780,
+      56,
+      848,
+      266
+    ],
+    "label": "Transfer Passengers Percentage at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      891,
+      56,
+      959,
+      270
+    ],
+    "label": "Million Tonnes of Cargo at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      257,
+      298,
+      347,
+      483
+    ],
+    "label": "Decrease in CO2 Emissions Schiphol Compared to 2019"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      390,
+      298,
+      529,
+      484
+    ],
+    "label": "Achieved Energy Savings Percentage at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      557,
+      298,
+      626,
+      484
+    ],
+    "label": "Waste Separated Percentage at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      257,
+      517,
+      325,
+      693
+    ],
+    "label": "Number of Outlets at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      368,
+      517,
+      436,
+      700
+    ],
+    "label": "Euro Spend per Passenger Airside at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      479,
+      517,
+      547,
+      693
+    ],
+    "label": "Billion Euro Real Estate Value 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      590,
+      517,
+      658,
+      694
+    ],
+    "label": "Real Estate Average Physical Occupancy Rate 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      257,
+      735,
+      325,
+      936
+    ],
+    "label": "Lost Time Injury Frequency (LTIF) at Schiphol 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      368,
+      735,
+      436,
+      889
+    ],
+    "label": "Percentage of Female Employees 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      479,
+      735,
+      547,
+      867
+    ],
+    "label": "Absenteeism Percentage 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      590,
+      735,
+      658,
+      882
+    ],
+    "label": "Underlying Return on Equity (ROE) 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      701,
+      735,
+      769,
+      893
+    ],
+    "label": "Billion Euro Total Assets 2021"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      812,
+      735,
+      908,
+      936
+    ],
+    "label": "Underlying EBITDA in Million Euros 2021"
+  }
+]

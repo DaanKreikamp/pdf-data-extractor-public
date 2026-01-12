@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      201,
+      97,
+      290,
+      497
+    ],
+    "label": "Audit Coverage for Total Assets 2023"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      333,
+      97,
+      423,
+      497
+    ],
+    "label": "Audit Coverage for Revenue 2023"
+  }
+]

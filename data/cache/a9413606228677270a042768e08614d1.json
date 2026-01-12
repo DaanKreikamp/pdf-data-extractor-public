@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      210,
+      62,
+      870,
+      486
+    ],
+    "label": "Consolidated statement of income and comprehensive income 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      210,
+      508,
+      935,
+      935
+    ],
+    "label": "Consolidated statement of cash flow 2020"
+  }
+]

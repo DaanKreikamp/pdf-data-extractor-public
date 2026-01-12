@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      391,
+      76,
+      577,
+      617
+    ],
+    "label": "Reclassification of Hedging Instruments to Profit or Loss 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      604,
+      76,
+      791,
+      617
+    ],
+    "label": "Reclassification of Hedging Instruments to Profit or Loss 2020"
+  }
+]

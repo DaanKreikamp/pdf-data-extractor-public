@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      238,
+      654,
+      417,
+      788
+    ],
+    "label": "Network ICA Destinations Performance Indicator 129"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      539,
+      93,
+      939,
+      290
+    ],
+    "label": "Global Network Connections Diagram"
+  }
+]

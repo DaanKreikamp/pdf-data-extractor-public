@@ -1,0 +1,52 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      310,
+      513,
+      355,
+      690
+    ],
+    "label": "Financial Key Figure: Spend per passenger on airside 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      378,
+      513,
+      420,
+      660
+    ],
+    "label": "Financial Key Figure: Real estate value 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      550,
+      745,
+      592,
+      900
+    ],
+    "label": "Financial Key Figure: Underlying Return on Equity (ROE) 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      620,
+      745,
+      662,
+      900
+    ],
+    "label": "Financial Key Figure: Total assets 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      690,
+      745,
+      740,
+      900
+    ],
+    "label": "Financial Key Figure: Underlying EBITDA 2022"
+  }
+]

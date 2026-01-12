@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      257,
+      57,
+      650,
+      493
+    ],
+    "label": "Movements in Assets under Construction or Development 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      201,
+      508,
+      627,
+      937
+    ],
+    "label": "Capital Expenditures by Project 2023"
+  }
+]

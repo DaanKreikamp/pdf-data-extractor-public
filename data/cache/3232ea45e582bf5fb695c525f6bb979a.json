@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      170,
+      68,
+      477,
+      489
+    ],
+    "label": "Company Statement of Financial Position 1 January 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      170,
+      508,
+      491,
+      930
+    ],
+    "label": "Company Statement of Income and Comprehensive Income 31 December 2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      535,
+      68,
+      842,
+      489
+    ],
+    "label": "Company Statement of Financial Position 31 December 2020"
+  }
+]

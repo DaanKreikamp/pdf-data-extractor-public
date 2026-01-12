@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      161,
+      61,
+      538,
+      489
+    ],
+    "label": "Subsidiaries List with Ownership Interest"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      206,
+      509,
+      429,
+      925
+    ],
+    "label": "Abridged Balance Sheet for Eindhoven Airport N.V. Minority Interest 2021-2020"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      538,
+      509,
+      852,
+      925
+    ],
+    "label": "Abridged Income Statement for Eindhoven Airport N.V. Minority Interest 2021-2020"
+  }
+]

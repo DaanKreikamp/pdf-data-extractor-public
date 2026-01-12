@@ -1,0 +1,42 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      168,
+      64,
+      218,
+      497
+    ],
+    "label": "Employee Benefits Carrying Amount 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      270,
+      64,
+      320,
+      497
+    ],
+    "label": "Employee Benefits Carrying Amount 2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      562,
+      64,
+      768,
+      497
+    ],
+    "label": "Movements in Post-Employment Benefit Liabilities 2021-2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      142,
+      508,
+      437,
+      934
+    ],
+    "label": "Actuarial Assumptions and Estimates 2021-2022"
+  }
+]

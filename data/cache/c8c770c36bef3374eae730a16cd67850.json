@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      249,
+      102,
+      470,
+      936
+    ],
+    "label": "Profit and Loss Account 2010-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      506,
+      102,
+      735,
+      936
+    ],
+    "label": "Balance Sheet 2010-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      769,
+      102,
+      792,
+      936
+    ],
+    "label": "Operating Cash Flow 2010-2021"
+  }
+]

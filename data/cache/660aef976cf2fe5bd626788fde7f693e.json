@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "box_2d": [
+      739,
+      391,
+      896,
+      453
+    ],
+    "label": "Employee Promoter Score Indicator 31"
+  },
+  {
+    "type": "figure",
+    "box_2d": [
+      739,
+      526,
+      896,
+      594
+    ],
+    "label": "Shareholders Return on Equity Indicator -8.8%"
+  }
+]

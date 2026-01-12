@@ -1,0 +1,32 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      116,
+      61,
+      319,
+      937
+    ],
+    "label": "Financial Ratios (in millions of euros) 2010-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      342,
+      61,
+      422,
+      937
+    ],
+    "label": "Figures per Share 2010-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      465,
+      61,
+      494,
+      937
+    ],
+    "label": "Average Full-time Equivalent Employees 2010-2021"
+  }
+]

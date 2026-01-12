@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      136,
+      335,
+      597,
+      643
+    ],
+    "label": "Operating Expenses Table 2022-2023"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      609,
+      652,
+      891,
+      937
+    ],
+    "label": "Operating Result Table 2022-2023"
+  }
+]

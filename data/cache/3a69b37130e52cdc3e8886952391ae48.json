@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      157,
+      650,
+      218,
+      930
+    ],
+    "label": "Energy use commercial buildings 2022"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      609,
+      650,
+      792,
+      930
+    ],
+    "label": "Solar energy generated per airport 2022"
+  }
+]

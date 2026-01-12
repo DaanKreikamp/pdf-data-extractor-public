@@ -1,0 +1,22 @@
+[
+  {
+    "type": "table",
+    "box_2d": [
+      386,
+      61,
+      868,
+      491
+    ],
+    "label": "Associates Income Statement and Financial Position 2020-2021"
+  },
+  {
+    "type": "table",
+    "box_2d": [
+      159,
+      506,
+      529,
+      933
+    ],
+    "label": "Loans to Associates and Joint Ventures Carrying Amounts and Movements 2020-2021"
+  }
+]
