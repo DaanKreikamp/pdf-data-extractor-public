@@ -163,11 +163,8 @@ class ImageService:
             raise e
         
         # Log RAW response immediately
-        try:
-            with open(r"c:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\backend\debug_raw.log", "a", encoding="utf-8") as f:
-                f.write(f"\n--- RAW AI RESPONSE ({len(response)} chars) ---\n{response}\n----------------------------------\n")
-        except Exception as e:
-            print(f"Failed to log raw response: {e}")
+        # Log RAW response via print instead
+        print(f"DEBUG: AI Response received (length: {len(response)})")
 
         # 4. Parse Response (Unified Parsing)
         # More robust regex: allows for optional language tags, case insensitive
@@ -229,10 +226,7 @@ class ImageService:
             combined_original += f" and {len(original_filenames)-3} more"
 
         # LOG STEP 3: Saving to staging
-        try:
-            with open(r"c:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\backend\debug_raw.log", "a", encoding="utf-8") as f:
-                f.write(f"[STEP 3] Entering save_to_staging...\n")
-        except: pass
+
 
         staging_id = approval_service.save_to_staging(
             csv_content, 
@@ -245,17 +239,10 @@ class ImageService:
         )
         
         # LOG STEP 4: Saved
-        try:
-            with open(r"c:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\backend\debug_raw.log", "a", encoding="utf-8") as f:
-                f.write(f"[STEP 4] Saved to staging ID: {staging_id}\n----------------------------------\n")
-        except: pass
+
         
         # Log Parsed Result
-        try:
-            with open(r"c:\Users\daank\.gemini\antigravity\scratch\pdf-data-extractor\backend\debug_parsed.log", "a", encoding="utf-8") as f:
-                f.write(f"\n--- PARSED RESULT ---\nCSV Len: {len(csv_content)}\nMD Len: {len(md_content)}\nCSV Content: {csv_content}\nMD Content: {md_content}\n---------------------\n")
-        except Exception as e:
-            print(f"Logging parsed failed: {e}")
+
 
         return {
             "id": staging_id,
