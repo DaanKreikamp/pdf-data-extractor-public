@@ -61,7 +61,7 @@ pip install -r requirements.txt
 **Configuration**:
 Create a `.env` file in the `backend/` directory:
 ```env
-GOOGLE_API_KEY=your_api_key_here
+GEMINI_API_KEY=your_api_key_here
 # Optional:
 LOG_LEVEL=INFO
 ```
